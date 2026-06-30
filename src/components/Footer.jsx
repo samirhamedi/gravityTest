@@ -117,7 +117,7 @@ export default function Footer({ setCurrentPage }) {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
           <p>© {new Date().getFullYear()} تمامی حقوق مادی و معنوی این وب‌سایت متعلق به شرکت ناب پلیمر شیراز می‌باشد.</p>
           <div className="flex items-center gap-3">
-            <span>طراحی و توسعه: ۹۰۳۹۸۵۸۹۳۸</span>
+            <span>طراحی و توسعه: ۹۳۶۶۵۷۷۹۸۷</span>
             <button
               onClick={scrollToTop}
               aria-label="Scroll to top"
